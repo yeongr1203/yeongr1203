@@ -1,6 +1,6 @@
 # yoengr1203
 <!-- 상단 로고 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelcomeYeongrongGithub&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome Yeongrong Github&fontSize=50)
 
 <!-- 기술 -->
 <!-- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/yeongr1203)
