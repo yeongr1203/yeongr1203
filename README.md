@@ -16,6 +16,7 @@
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongr1203&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongr1203)](https://solved.ac/profile/yeongr1203)
 
