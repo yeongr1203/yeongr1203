@@ -18,6 +18,8 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongr1203)](https://solved.ac/profile/yeongr1203)
+<!-- 
 <div align=center>
- <img src="http://mazandi.herokuapp.com/api?handle=yeongr1203&theme=cold"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=yeongr1203&theme=cold"/> 
 </div<>
+-->
