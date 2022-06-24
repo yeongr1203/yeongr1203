@@ -16,5 +16,7 @@
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
+<div align=center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongr1203)](https://solved.ac/profile/yeongr1203)
  <img src="http://mazandi.herokuapp.com/api?handle=yeongr1203&theme=cold"/>
+</
