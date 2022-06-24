@@ -17,8 +17,8 @@
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 <!-- commit state (커밋스테이트) -->
-![yeongr1203's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
-[![yeongr1203's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=본인ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yeongr1203)
+![yeongr1203's github stats](https://github-readme-stats.vercel.app/api?username=yeongr1203&show_icons=true)
+[![yeongr1203's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongr1203&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yeongr1203)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongr1203)](https://solved.ac/profile/yeongr1203)
 
