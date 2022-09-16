@@ -2,7 +2,7 @@
 
 <!-- 상단 로고 -->
 <!-- align="center" -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=250&section=header&fontColor=white&text=Welcome&nbsp;Yeonglong&nbsp;Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=250&section=header&text=Welcome&nbsp;Yeonglong&nbsp;Github&fontSize=40)
 
 
 <!-- 기술 -->
@@ -53,5 +53,6 @@
  <img src="http://mazandi.herokuapp.com/api?handle=yeongr1203&theme=cold"/> 
 </div>
 -->
- 
- </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=200&section=footer)
+</div>
