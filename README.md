@@ -40,7 +40,7 @@
 <br>
 
 <!-- commit state (커밋스테이트) -->
-![yeongr1203's github stats](https://github-readme-stats.vercel.app/api?username=yeongr1203&theme=gruvbox&show_icons=true)
+![yeongr1203's github stats](https://github-readme-stats.vercel.app/api?username=yeongr1203&theme=gruvbox&layout=compact&show_icons=true)
 [![yeongr1203's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongr1203&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yeongr1203)
 
 
