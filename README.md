@@ -1,40 +1,61 @@
-# yoengr1203
+<div align="center">
+
 <!-- 상단 로고 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&nbsp;Yeonglong&nbsp;Github&fontSize=40)
+<!-- align="center" -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=250&section=header&fontColor=white&text=Welcome&nbsp;Yeonglong&nbsp;Github&fontSize=40)
 
 
 <!-- 기술 -->
-<!-- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/yeongr1203)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white)](github.com/yeongr1203)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](github.com/yeongr1203)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/yeongr1203) -->
-<!-- [![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크) -->
-<!-- <br> -->
-<!-- Stack -->
-<!-- <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a> -->
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<div>
+ <span>:herb:Tech Skill<span>
+ <div> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white&"/>&nbsp; 
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>&nbsp; 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp; 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp; 
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
+    <br>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp; 
+    <img src="https://img.shields.io/badge/Lalavel-FF2D20?style=flat-square&logo=Lalavel&logoColor=white"/>&nbsp; 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp; 
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
+<br><br>
+ 
+<!-- 사용가능한 툴 -->
+<div display="inline">
+ :herb:Tools
+ <div>
+   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp; 
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp; 
+   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp; 
+
+   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>&nbsp;
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>&nbsp;
+   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>&nbsp; 
+   <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=FontAwesome&logoColor=white"/>&nbsp; 
+ </div> 
+</div> 
+
+<br>
+<br>
+<br>
+<br>
 
 <!-- commit state (커밋스테이트) -->
-![yeongr1203's github stats](https://github-readme-stats.vercel.app/api?username=yeongr1203&show_icons=true)
-[![yeongr1203's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongr1203&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yeongr1203)
+![yeongr1203's github stats](https://github-readme-stats.vercel.app/api?username=yeongr1203&theme=gruvbox&show_icons=true)
+[![yeongr1203's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yeongr1203&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yeongr1203)
 
 
 <!-- 백준 커밋 -->
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeongr1203)](https://solved.ac/yeongr1203)
-
-<!-- 큰것.
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeongr1203)](https://solved.ac/yeongr1203)
+큰것.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongr1203)](https://solved.ac/profile/yeongr1203) 
--->
 
-<!-- 
 <div align=center>
  <img src="http://mazandi.herokuapp.com/api?handle=yeongr1203&theme=cold"/> 
-</div<>
--->
+</div>
 
-<!-- ![footer](https://capsule-render.vercel.app/api?section=footer) -->
+-->
+ 
+ </div>
