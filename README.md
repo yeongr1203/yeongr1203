@@ -1,6 +1,6 @@
 # yoengr1203
 <!-- 상단 로고 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Welcome&nbsp&Yeonglong&nbsp&Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&nbsp&Yeonglong&nbsp&Github&fontSize=40)
 
 
 <!-- 기술 -->
