@@ -6,8 +6,8 @@
 
 
 <!-- 기술 -->
-<div>
- <span>:herb:Tech Skill<span>
+
+:herb:Tech Skill
  <div> 
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white&"/>&nbsp; 
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>&nbsp; 
@@ -20,10 +20,9 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp; 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
-<br><br>
+<br>
  
 <!-- 사용가능한 툴 -->
-<div display="inline">
  :herb:Tools
  <div>
    <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp; 
@@ -35,10 +34,8 @@
    <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>&nbsp; 
    <img src="https://img.shields.io/badge/FontAwesome-528DD7?style=flat-square&logo=FontAwesome&logoColor=white"/>&nbsp; 
  </div> 
-</div> 
 
-<br>
-<br>
+
 <br>
 <br>
 
@@ -55,7 +52,6 @@
 <div align=center>
  <img src="http://mazandi.herokuapp.com/api?handle=yeongr1203&theme=cold"/> 
 </div>
-
 -->
  
  </div>
