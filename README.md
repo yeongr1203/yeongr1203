@@ -2,6 +2,7 @@
 <!-- 상단 로고 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelcomeYeongrongGithub&fontSize=50)
 
+
 <!-- 기술 -->
 <!-- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/yeongr1203)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white)](github.com/yeongr1203)
@@ -35,3 +36,5 @@
  <img src="http://mazandi.herokuapp.com/api?handle=yeongr1203&theme=cold"/> 
 </div<>
 -->
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
