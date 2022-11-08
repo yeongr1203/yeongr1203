@@ -2,12 +2,14 @@
 
 <!-- 상단 로고 -->
 <!-- align="center" -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=250&section=header&text=Welcome&nbsp;Yeonglong&nbsp;Github&fontSize=40)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=250&section=header&text=Welcome&nbsp;Yeonglong&nbsp;Github&fontSize=40) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F9A5AD&height=250&section=header&text=Welcome!&fontSize=55&fontAlignY=35&desc=yeongrong's&nbsp;github%20&descSize=25&descAlignY=50&fontColor=ffffff&animation=twinkling" />
 
-
+ <h3>:woman:&nbsp;Introduction</h3>
+<!--  <p style="fontSize=1rem;">안녕하세요. 열정이 가득한 풀스택 개발자가 되고 싶은 "허영롱" 입니다. <br/>열정이 하루에 한 발 더 나아가는 개발자가 되겠습니다.</p> -->
+ 
 <!-- 기술 -->
-
-:herb:Tech Skill
+ <h3>:herb:Tech Skill</h3> 
  <div> 
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white&"/>&nbsp; 
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>&nbsp; 
@@ -56,5 +58,5 @@
 </div>
 -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=80&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F9A5AD&height=150&section=footer)
 </div>
