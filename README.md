@@ -6,7 +6,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A5AD&height=250&section=header&text=Welcome!&fontSize=55&fontAlignY=35&desc=yeongrong's&nbsp;github%20&descSize=25&descAlignY=50&fontColor=ffffff&animation=twinkling" />
 
  <h3>:woman:&nbsp;Introduction</h3>
-<!--  <p style="fontSize=1rem;">안녕하세요. 열정이 가득한 풀스택 개발자가 되고 싶은 "허영롱" 입니다. <br/>열정이 하루에 한 발 더 나아가는 개발자가 되겠습니다.</p> -->
+ <p style="font-size=1em;">안녕하세요. 열정이 가득한 풀스택 개발자가 되고 싶은 "허영롱" 입니다. <br/>열정이 하루에 한 발 더 나아가는 개발자가 되겠습니다.</p>
+ 
+ <br/>
+ <br/>
+ 
  
 <!-- 기술 -->
  <h3>:herb:Tech Skill</h3> 
@@ -25,9 +29,10 @@
     -->
 </div>
 <br>
+ <br>
  
 <!-- 사용가능한 툴 -->
- :herb:Tools
+ <h3>:herb:Tools</h3>
  <div>
    <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>&nbsp; 
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp; 
